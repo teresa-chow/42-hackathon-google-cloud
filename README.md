@@ -13,6 +13,8 @@ This project was developed in the context of Google Cloud Day Lisbon Hackathon: 
 - **Integration with Hospital Systems**: Can be connected with electronic health records (EHR) and updates the patient’s status in the hospital system.
 - **AI-Driven Triage**: Leverages the Manchester Triage System to classify patients into different urgency levels, ensuring appropriate care.
 - **Cloud-Based**: Uses Google infrastructure for scalability, security, and updates.
+
+![abs](https://github.com/mjorgecruz/google_hackathon/blob/main/(Static)%20SC1%20-%20Hackathon%20Pitch%20-%20Team%201.png)
   
 ## Benefits & Impact
 ### Social:

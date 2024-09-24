@@ -5,7 +5,7 @@ _Project developed in the context of Google Cloud Day Lisbon Hackathon: Leveragi
 ___
 
 ### Table of contents
-[Description](#description) · [Features](#features) · [Benefits & Impact](#benefits--impact) · [Next steps](#next-steps) · [Future features](#future-features) · [Credits](#credits) · [License](#license)
+[Description](#description) · [Features](#features) · [Benefits & Impact](#benefits--impact) · [Next steps](#next-steps) · [Future features](#future-features) · [Credits](#credits)
 
 ___
 
@@ -88,12 +88,6 @@ Luís Carvalho [@luis-ffe](https://github.com/luis-ffe)
 Rui Pires [@Rui-Pedro-Pires](https://github.com/Rui-Pedro-Pires)
 
 Teresa Chow (me)
-___
-
-</br>
-
-### License
-This work is published under the terms of the [License](./LICENSE).
 
 </br>
 

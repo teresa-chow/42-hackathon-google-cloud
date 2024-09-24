@@ -1,5 +1,5 @@
 # RITA – Robô Inteligente de Triagem Automatizada
-![Google Cloud Portugal Hackathon](https://img.shields.io/badge/Google%20Cloud%20Portugal-Hackathon-%234285F4)
+[![Google Cloud Portugal Hackathon](https://img.shields.io/badge/Google%20Cloud%20Portugal-Hackathon-%234285F4)](https://cloud.google.com/)
 
 _Project developed in the context of Google Cloud Day Lisbon Hackathon: Leveraging AI for Portugal. Six teams have participated, and a different challenge was given to each of them. Ours was tasked with creating a smart triage agent using Google Cloud products._
 ___

@@ -4,6 +4,11 @@ RITA – Robô Inteligente de Triagem Automatizada [Smart Robot for Automated Tr
 This project was developed in the context of Google Cloud Day Lisbon Hackathon: Leveraging AI for Portugal. Six teams participated, and a different challenge was given to each team. Our team was tasked with creating a smart triage agent using Google Cloud products.</br>
 </br>
 
+<div>
+  <img src="./img/2024-rita-demo-desktop-00.png" alt="RITA desktop demo screenshots" style="width:49%">
+  <img src="./img/2024-rita-demo-mobile.png" alt="RITA mobile demo screenshots" style="width:49%">
+</div>
+
 ## Description
 **RITA** is a smart automated triage agent designed to streamline the triage process in healthcare settings. This project was developed during a hackathon to address the pressing issue of long wait times and overcrowding in emergency services. By combining AI with clinical expertise, RITA provides an efficient triage process that reduces the workload of healthcare professionals.
 

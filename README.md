@@ -24,7 +24,7 @@ Designed to streamline the triage process in healthcare settings, this project w
   <img src="./img/2024-rita-demo-mobile.png" alt="RITA mobile demo screenshots" style="width:49%">
 </div>
 
-<div align="center"><i>Demo screenshots.</i></div>
+<div align="center"><i>Demo screenshots.</br><a href="./demo_recording_desktop.mp4">Watch recorded desktop demo.</a></i></div>
 
 </br>
 
@@ -73,6 +73,10 @@ ___
 - **`Monitor Physiological Factors`**: _Track real-time health data._
 - **`Observe Symptoms`**: _Allow the system to use AI and smartphone camera for visible symptom identification._
 - **`Service Suggestions`**: _Recommend nearby services based on distance and wait time._
+
+</br>
+
+[To know more about this project, check our pitch slideshow.](./pitch_slideshow_static.pdf)
 
 ___
 

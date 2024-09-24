@@ -93,6 +93,8 @@ Rui Pires [@Rui-Pedro-Pires](https://github.com/Rui-Pedro-Pires)
 
 Teresa Chow (me)
 
+> _And a special thanks to Frederico Carvalho, our mentor throughout this challenge, for his continued support._
+
 </br>
 
 [⬆ back to top](#rita--rob%C3%B4-inteligente-de-triagem-automatizada)
